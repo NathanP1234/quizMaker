@@ -1,3 +1,25 @@
 #countdown {
     text-align: right;
 }
+
+body {
+    background-image: url("background.jpg");
+    background-color: #cccccc;
+   }
+
+   a {
+    font-family: sans-serif;
+   }
+
+   h1 {
+    font-family: sans-serif;
+    }
+
+    button {
+        font-family: sans-serif;
+        }
+
+    
+        body {
+            text-align: center;
+            }
